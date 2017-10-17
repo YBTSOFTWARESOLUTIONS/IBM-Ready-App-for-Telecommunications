@@ -1,4 +1,4 @@
-IBM READY APPS LICENSE AGREEMENT
+YBT SOFTWARE SOLUTIONS APPS LICENSE AGREEMENT
 
 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS IBM READY APPS LICENSE AGREEMENT ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
 
@@ -34,7 +34,7 @@ A Contributor may choose to distribute the Program in object code form under its
 
 a) it complies with the terms and conditions of this Agreement;
 
-b) it does not make any representations or warranties on behalf of IBM;
+b) it does not make any representations or warranties on behalf of YBT SOFTWARE SOLUTIONS;
 
 c) it remains solely responsible for the content and functionality of the Application and complies with all applicable laws, including without limitation laws regarding data handling and privacy; and
 d) in addition to any other third party requirements that may apply, its license agreement:
